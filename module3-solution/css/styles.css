@@ -1,0 +1,27 @@
+.navbar {
+  background-color: #867979;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-brand h1 { /* Restaurant name */
+  color: black;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+h1{
+	color: black;
+}
+
+#home-tiles{
+	background-color: #867979;
+	margin: 15px;
+}
+
+#bs-example-navbar-collapse-1 a{
+	color: black;
+	background-color: #eee;
+}
+
+
